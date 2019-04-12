@@ -1,1 +1,1 @@
-# mitochondria
+# mitochondria project
