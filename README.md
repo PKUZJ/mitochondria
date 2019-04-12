@@ -1,1 +1,1 @@
-# mitochondria
+# mtDNA dynamics project
